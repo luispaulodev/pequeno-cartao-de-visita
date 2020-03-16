@@ -17,11 +17,11 @@ PEQUENO CARTÃO DE VISITA
 <hr/>
 
 ## Recursos
-***
+---
 Este cartão de visita apresenta duas das tecnologias mais usada em desenvolvimento front-end!
-***
-- 🔴** HTML5 **
-- 🔵** CSS3 **
+---
+- 🔴 **HTML5**
+- 🔵 **CSS3**
 
 ## Começando
 
