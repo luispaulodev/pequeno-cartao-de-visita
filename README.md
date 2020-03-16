@@ -1,6 +1,6 @@
 <h1 align = "center">
 <br>
-  <img src = "imagens/readme/logo/pequeno_cartao_de_visita.png" alt = "pequeno_cartao_de_visita.png" width = "120">
+  <img src = "imagens/readme/logo/pequeno_cartao_de_visita.png" alt = "pequeno_cartao_de_visita.png" width = "400">
 <br>
 <br>
 PEQUENO CARTÃO DE VISITA
