@@ -6,7 +6,9 @@
 PEQUENO CARTÃO DE VISITA
 </h1>
 
-<p align = "center"> livro Azul Esse é um pequeno desafio do 3 ° módulo de CSS Básico do curso de desenvolvimento web do programador br. </p>
+<hr/>
+
+<p align = "center"> Esse é um pequeno desafio do 3 ° módulo de CSS Básico do curso de desenvolvimento web do programador br. </p>
 
 <p align = "center">
   <a href="https://opensource.org/licenses/MIT">
@@ -14,20 +16,20 @@ PEQUENO CARTÃO DE VISITA
   </a>
 </p>
 
-<hr />
+<hr/>
 
 ## Recursos
+***
+Este cartão de visita apresenta duas das tecnologias mais usada em desenvolvimento front-end!
 
-Este cartão de visit apresenta duas das tecnologias mais usada em desenvolvimento front-end!
-
-- <HTML5>
-- .CSS3{}
+- ** </> HTML5 **
+- ** {/} CSS3 **
 
 ## Começando
 
 Clique no link para conferir o pequeno cartão de visita na web:
 
-https://luispauloinfo/projetos/pequeno-cartao-de-visita
+https://luispaulo.info/projetos/pequeno-cartao-de-visita
 
 
 ## Licença
