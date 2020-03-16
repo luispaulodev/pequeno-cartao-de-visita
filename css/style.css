@@ -1,0 +1,67 @@
+.container{
+    background-image: url("../imagens/background/background.jpeg");
+    width: 400px;
+    height: 200px;
+    color: white;
+    font-family: "Righteous-Regular";
+}
+@font-face{
+    font-family: "Righteous-Regular";
+    src: url("../fontes/Righteous-Regular.ttf");
+}
+.cabecalho{
+    display: flex;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+img{
+    width: 27%;   
+    border: 3px solid white;
+    box-shadow: 0px 0px 10px black;
+    border-radius: 100px;
+}
+h1{
+    margin: 30px;
+    margin-left: 40px;
+    font-size: 37px;
+}
+h2{
+    margin-top: -40px;
+    margin-left: 170px;
+    font-size: 18px;
+    color: rgb(199, 199, 199);
+}
+
+.lista{
+    display: flex;
+    width: 50px;
+    margin-left: -10px;
+    margin-top: 2px;
+}
+li{
+    list-style-position: inside;
+    text-align: center;
+    padding: 12px;
+}
+#portfolio{
+    list-style-image: url("../imagens/icones/portfolio.png");
+}
+#github{
+    list-style-image: url("../imagens/icones/github.png")
+}
+#curriculo{
+    list-style-image: url("../imagens/icones/curriculo.png")
+}
+#linkedin{
+    list-style-image: url("../imagens/icones/linkedin.png")
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(44, 152, 240);
+}
+a:active{
+    color: rgb(255, 196, 0);
+}
