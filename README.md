@@ -20,8 +20,8 @@ PEQUENO CARTÃO DE VISITA
 ***
 Este cartão de visita apresenta duas das tecnologias mais usada em desenvolvimento front-end!
 ***
-- ** 🔴 HTML5 **
-- ** 🔵 CSS3 **
+- 🔴** HTML5 **
+- 🔵** CSS3 **
 
 ## Começando
 
