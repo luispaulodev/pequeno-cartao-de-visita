@@ -22,14 +22,14 @@ PEQUENO CARTÃO DE VISITA
 
 Este cartão de visita apresenta duas das tecnologias mais usada em desenvolvimento front-end!
 
-> 🔴 **HTML5**
-> 🔵 **CSS3**
+- 🔴 **HTML5**
+- 🔵 **CSS3**
 
 ## Começando
 
 Clique no link para conferir o pequeno cartão de visita na web:
 ```
-> https://luispaulo.info/projetos/pequeno-cartao-de-visita
+https://luispaulo.info/projetos/pequeno-cartao-de-visita
 ```
 
 ## Licença
