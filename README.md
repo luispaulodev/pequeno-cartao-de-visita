@@ -20,19 +20,18 @@ PEQUENO CARTÃO DE VISITA
 
 ## Recursos
 
-Este cartão de visita apresenta duas das tecnologias mais usada em desenvolvimento front-end!
+> Este cartão de visita apresenta duas das tecnologias mais usada em desenvolvimento front-end!
 
 - 🔴 **HTML5**
 - 🔵 **CSS3**
 
 ## Começando
 
-Clique no link para conferir o pequeno cartão de visita na web:
-```
-https://luispaulo.info/projetos/pequeno-cartao-de-visita
-```
+> Clique no link para conferir o pequeno cartão de visita na web:
+> https://luispaulo.info/projetos/pequeno-cartao-de-visita
+
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte a página [LICENSE] (https://opensource.org/licenses/MIT) para obter detalhes.
+> Este projeto está licenciado sob a licença MIT - consulte a página [LICENSE] (https://opensource.org/licenses/MIT) para obter detalhes.
 
